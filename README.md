@@ -1,6 +1,6 @@
 # 📊 E-Commerce Data Analysis Project
 
-![Dashboard](powerbi/dashboard.png)
+![Dashboard](powerbi/ecommerce_dashboard.png)
 
 ## 🚀 Project Overview
 This project focuses on analyzing e-commerce transaction data to extract meaningful business insights.  
@@ -67,7 +67,7 @@ ecommerce-project/
 
 ## 📸 Dashboard Preview
 
-![Dashboard](powerbi/dashboard.png)
+![Dashboard](powerbi/ecommerce_dashboard.png)
 
 ---
 
